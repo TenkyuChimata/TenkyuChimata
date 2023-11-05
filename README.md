@@ -6,4 +6,4 @@
 
 >   **Any commits after May 14th, 2023 that show up as unverified is untrusted.**
 
->   **GPG key ID is 9AE12B470709A8A4 / 4AEE18F83AFDEB23.**
+>   **GPG: 5C06 0B93 BED9 C04B ED45 5D59 9AE1 2B47 0709 A8A4 (9AE1 2B47 0709 A8A4)**
